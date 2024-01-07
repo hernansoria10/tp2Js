@@ -20,13 +20,3 @@ do {
   }
 } while (respuesta == true);
 
-// let dni = parseInt(prompt('ingrese DNI'))
-
-// while(isNaN(dni)){
-//     alert('ingrese un dni valido')
-// }
-
-// let letras ="TRWAGMYFPDXBNJZSQVHLCKE"
-// let resto = dni % 23
-// let letraAsignada = letras.charAt(resto)
-// document.write(letraAsignada)
