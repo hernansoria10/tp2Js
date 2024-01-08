@@ -4,6 +4,9 @@
 .green{
     background-color: rgb(65, 255, 1);
 }
-.fontyeah{
-    font-size: 20px;
+.fontLinea{
+    font-size: 30px;
+}
+body{
+    margin-left:10px;
 }

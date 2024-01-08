@@ -12,7 +12,7 @@ for (let i = 1; i <= 500; i++) {
         document.write(i + " (multiplo de 9)" + "<br>");
       }
   }
-  let linea = ' <span class = "fontyeah"> ------------------------------ </span> <br>';
+  let linea = ' <span class = "fontLinea "> ------------------------------ </span> <br>';
   if (i % 5 === 0) {
     document.write(linea);
   }
