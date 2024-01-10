@@ -22,3 +22,19 @@ td{
     margin: 0;
     padding: 10px;
 }
+div {
+    width: 400px;
+    height: 400px;
+    font-size: 70px;
+    display: flex;
+    text-align: center;
+    color: #050000;
+    background-color: #FFF000;
+    justify-content: center;
+    align-content: flex-end;
+    flex-direction: column;
+    align-self: center;
+    margin-top: 10%;
+    margin-left:37% ;
+    
+}
