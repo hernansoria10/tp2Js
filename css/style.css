@@ -1,3 +1,8 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
 .blue{
     background-color: rgb(1, 111, 255);
 }
@@ -7,6 +12,11 @@
 .fontLinea{
     font-size: 30px;
 }
-body{
-    margin-left:10px;
+table,tbody, td{
+    padding: 0;
+    border: 1px solid rgb(85, 85, 226);
+}
+td{
+    margin: 0;
+    padding: 10px;
 }
