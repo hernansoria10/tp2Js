@@ -1,5 +1,5 @@
-const filas = parseInt(prompt("ingrese uns cantidad de filas"));
-const columnas = parseInt(prompt("ingrese uns cantidad de columnas"));
+const filas = parseInt(prompt("ingrese una cantidad de filas"));
+const columnas = parseInt(prompt("ingrese una cantidad de columnas"));
 let FxC = filas * columnas;
 document.write(`<table>
 <tbody>
@@ -22,3 +22,4 @@ for (let indiceFilas = 1; indiceFilas <= filas; indiceFilas++) {
 document.write(`
 </tbody>
 </table>`);
+//no se por que al ejecutar las celdas que contienen los numeros se muestran separadas
